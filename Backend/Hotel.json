@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Budget Room, 1 King Bed (Cityside)",
+      "maxcount": 2,
+      "phonenumber": 1234567890,
+      "imageurl": ["https://images.unsplash.com/photo-1560200353-ce0a76b1d438?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBib29raW5nfGVufDB8fDB8fHww",
+       "https://plus.unsplash.com/premium_photo-1678240508014-d1ab7345bfe6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjBib29raW5nfGVufDB8fDB8fHww"],
+       "rentperday":1500,
+      "currentbooking": [],
+      "type": "Budget Room",
+      "description": "Description for Budget Room, 1 King Bed (Cityside)"
+    },
+    {
+      "name": "Deluxe Room, 2 Double Beds (Cityside)",
+      "maxcount": 2,
+      "phonenumber": 1234567891,
+      "imageurl": ["https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+       "https://images.unsplash.com/photo-1612454882322-2cc894734fd2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D"],
+       "rentperday":1500,
+      "currentbooking": [],
+      "type": "Deluxe Room",
+      "description": "Description for Deluxe Room, 2 Double Beds (Cityside)"
+    },
+    {
+        "name": "Deluxe Room, 2 Double Beds (Cityside)",
+        "maxcount": 2,
+        "phonenumber": 1234567891,
+        "imageurl": ["https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+         "https://images.unsplash.com/photo-1612454882322-2cc894734fd2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D"],
+         "rentperday":1500,
+        "currentbooking": [],
+        "type": "Deluxe Room",
+        "description": "Description for Deluxe Room, 2 Double Beds (Cityside)"
+      },
+      {
+        "name": "Deluxe Room, 2 Double Beds (Cityside)",
+        "maxcount": 2,
+        "phonenumber": 1234567891,
+        "imageurl": ["https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+         "https://images.unsplash.com/photo-1612454882322-2cc894734fd2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D"],
+         "rentperday":1500,
+        "currentbooking": [],
+        "type": "Deluxe Room",
+        "description": "Description for Deluxe Room, 2 Double Beds (Cityside)"
+      },
+      {
+        "name": "Deluxe Room, 2 Double Beds (Cityside)",
+        "maxcount": 2,
+        "phonenumber": 1234567891,
+        "imageurl": ["https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+         "https://images.unsplash.com/photo-1612454882322-2cc894734fd2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwYm9va2luZ3xlbnwwfHwwfHx8MA%3D%3D"],
+         "rentperday":1500,
+        "currentbooking": [],
+        "type": "Deluxe Room",
+        "description": "Description for Deluxe Room, 2 Double Beds (Cityside)"
+      }
+  ]
+  
